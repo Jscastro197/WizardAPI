@@ -8,5 +8,5 @@ services:
       - "8000:8000"
     environment:
       - AWS_REGION=us-east-2
-      - COGNITO_USER_POOL_ID=us-east-2_aCj6mcY5x
-      - COGNITO_CLIENT_ID=FashionWizard
+      - COGNITO_USER_POOL_ID=us-east-2_I8Z1uYYww
+      - COGNITO_CLIENT_ID=7kggrvvb84e0qusakt1caflcdm

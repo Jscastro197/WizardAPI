@@ -1,6 +1,7 @@
-# domain/models.py
+# domain/domain.py
 
 from pydantic import BaseModel, EmailStr
+from pydantic_settings import BaseSettings
 
 class User(BaseModel):
     username: str

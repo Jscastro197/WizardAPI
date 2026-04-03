@@ -19,6 +19,9 @@ classifiers = [
 dependencies = [
     "fastapi",
     "uvicorn",
+    "pydantic",
+    "pydantic-settings",
+    "email-validator",
     "boto3",
     "python-jose",
     "authlib",
