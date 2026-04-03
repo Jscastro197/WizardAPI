@@ -5,9 +5,6 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "WizardAPI"
 version = "0.0.1"
-authors = [
-  { name="Jeff Castro", email="jeff.castro9@outlook.com" }
-]
 description = "WWizard package"
 readme = "README.md"
 requires-python = ">=3.14"
